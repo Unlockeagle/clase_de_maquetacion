@@ -1,0 +1,25 @@
+background {
+    background-color: chocolate;
+    background-image: linear-gradient(to left, #ec0000, #5b02e9);
+
+}
+
+/*
+div {
+    background-color: blue;
+}
+*/
+
+/*
+px
+em rem adaptar para todas las pantalla
+%
+vw vh hace referencia a las medidas del view
+maxw maxh igual pero representa una medida maxima
+minw minh no son recomendadas usar
+colores: 
+nombre
+rgb rgba
+hex
+hsl
+*/
